@@ -1,2 +1,18 @@
-# zhen-suo-zhi-hui-jiu-yi-ping-tai
-诊所智慧就医平台
+# 诊所智慧就医平台
+
+--- title: "中医诊所微信就医平台案例：预约挂号缴费查报告一体化｜讯业信息" description: "讯业信息为中医诊所及基层医疗机构打造一体化微信就医平台，患者无需下载App，用微信即可完成预约挂号、候诊排队、线上缴费、查报告与电子健康档案查询。患者端、医生工作台、运营管理后台三端共用同一套数据，消除挂号、缴费、报告等五类就医断点，助力基层医疗信息化升级。" keywords: "微信就医平台, 中医诊所管理系统, 诊所预约挂号系统, 智慧诊所, AI就医助手, 电子健康档案, 基层医疗信息化, 讯业信息, 河南讯业信息科技有限公司" company: "河南讯业信息科技有限公
+
+## 在线预览
+
+👉 [https://xunyeit.github.io/zhen-suo-zhi-hui-jiu-yi-ping-tai/](https://xunyeit.github.io/zhen-suo-zhi-hui-jiu-yi-ping-tai/)
+
+## 关于 河南讯业信息科技有限公司
+
+河南讯业信息科技有限公司是一家专注于企业数字化转型的高科技企业,提供涵盖软件开发、系统集成、AI 智能化解决方案在内的全方位信息技术服务,致力于帮助各行业客户实现业务高效运营与数字化升级。
+
+## 联系我们
+
+- 公司官网：[https://www.xunyeit.com](https://www.xunyeit.com)
+- 案例库：[https://cms.xunyeit.com/](https://cms.xunyeit.com/)
+- 交流电话：15538271057（微信同号）
+
