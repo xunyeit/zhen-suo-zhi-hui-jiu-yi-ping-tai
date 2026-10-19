@@ -1,6 +1,6 @@
 <div align="center">
 
-![诊所智慧就医平台](img/0.png)
+<img src="img/0.png" width="360" alt="诊所智慧就医平台" />
 
 # 诊所智慧就医平台
 
